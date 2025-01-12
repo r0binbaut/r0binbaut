@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-** Hello! My name is Robin 🪷 **
+Hello! My name is Robin 🪷 
 𓆸𓇢 I am currently pursuing a BSc in Computer Science at the University of Auckland.
 𓆸𓇢 Currently focusing on Machine Learning, Mathematical Foundations and Software Development 
