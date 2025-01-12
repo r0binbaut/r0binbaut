@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome! 
 
 <!--
 **r0binbaut/r0binbaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+** Hello! My name is Robin 🪷 **
+𓆸𓇢 I am currently pursuing a BSc in Computer Science at the University of Auckland.
+𓆸𓇢 Currently focusing on Machine Learning, Mathematical Foundations and Software Development 
